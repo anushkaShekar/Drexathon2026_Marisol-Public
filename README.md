@@ -245,6 +245,10 @@ Intern collects no telemetry. What leaves your machine:
 
 Sessions are journaled, and memory kept, on your machine in `~/.intern/`.
 
+## Hackathon projects
+
+- [Marisol](examples/marisol/README.md): a screenshot-based support intake and bug triage demo using Drex decisions, confidence-gated escalation, and an evaluation harness. Included results use deterministic mock data.
+
 ## Contributing
 
 Read [CONTRIBUTING.md](CONTRIBUTING.md) first: one concern per PR, and evidence for any changed default.
